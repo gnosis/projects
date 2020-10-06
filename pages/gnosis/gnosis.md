@@ -38,6 +38,6 @@ Global interconnection has proved that open access to information, resources, an
 
 **Trade:** Gnosis Protocol is a fully permissionless DEX, which has been in research and development over the course of the last two years. Gnosis Protocol enables ring trades to maximize liquidity.
 
-**Hold:** The Gnosis Safe Multisig is the most trusted platform to store digital assets on Ethereum and the only formally verified smart contract wallet.
+**Hold:** The Gnosis Safe Multisig is the most trusted platform to manage digital assets on Ethereum.
 
 *From https://gnosis.io/*
