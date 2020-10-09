@@ -30,7 +30,7 @@ embeds:
     link: "https://explore.duneanalytics.com/embed/query/8790/visualization/17606?api_key=jN8q3XqC8sWUnHw2uzLciDLXNPmv0I4IDYcJA5W3"
 ---
 
-Gnosis builds new market mechanisms for open finance.By designing fairer marketplaces with open-source building blocks, Gnosis is committed to supporting an accessible, equitable future for decentralized finance. Our three interoperable product lines allow you to securely create, trade, and hold crypto assets.
+Gnosis builds new market mechanisms for open finance. By designing fairer marketplaces with open-source building blocks, Gnosis is committed to supporting an accessible, equitable future for decentralized finance. Our three interoperable product lines allow you to securely create, trade, and hold crypto assets.
 
 **Create:** Conditional tokens are an application-agnostic asset class designed for the creation of highly liquid prediction markets. This new type of asset uses the open Conditional Tokens Framework to enable combinatorial outcomes for information discovery through prediction markets, laying the foundation for use cases like futarchy, agentless escrow, and milestone-based funding & access rights allocation.
 
