@@ -30,14 +30,12 @@ embeds:
     link: "https://explore.duneanalytics.com/embed/query/8790/visualization/17606?api_key=jN8q3XqC8sWUnHw2uzLciDLXNPmv0I4IDYcJA5W3"
 ---
 
-Gnosis builds new market mechanisms for open finance.
+Gnosis builds new market mechanisms for open finance.By designing fairer marketplaces with open-source building blocks, Gnosis is committed to supporting an accessible, equitable future for decentralized finance. Our three interoperable product lines allow you to securely create, trade, and hold crypto assets.
 
-Global interconnection has proved that open access to information, resources, and financial infrastructure is key for global resilience. By designing fairer marketplaces, Gnosis aims to build a more evenly distributed future. Our three interoperable product lines allow you to securely create, trade, and hold crypto assets.
+**Create:** Conditional tokens are an application-agnostic asset class designed for the creation of highly liquid prediction markets. This new type of asset uses the open Conditional Tokens Framework to enable combinatorial outcomes for information discovery through prediction markets, laying the foundation for use cases like futarchy, agentless escrow, and milestone-based funding & access rights allocation.
 
-**Create:** Gnosis developed an open framework for creating crypto assets that represent information about future events with conditional outcomes. These conditional tokens can be integrated with prediction markets and other applications.
+**Trade:** Gnosis Protocol is a fully permissionless DEX that prevents front-running, maximizes liquidity through ring trades, and facilitates captial-efficient programmable orders on a customizable price range with batch auctions and custom market makers.
 
-**Trade:** Gnosis Protocol is a fully permissionless DEX, which has been in research and development over the course of the last two years. Gnosis Protocol enables ring trades to maximize liquidity.
-
-**Hold:** The Gnosis Safe Multisig is the most trusted platform to manage digital assets on Ethereum.
+**Hold:** Gnosis Safe Multisig is the trustless interface for Safe Apps, dApp modules that decode contract interaction into human-readable information for digital asset management on Ethereum. Safe Apps ensure security and persistence through IPFS hosting, and most are open-source and auditable.
 
 *From https://gnosis.io/*
